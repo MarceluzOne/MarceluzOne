@@ -39,4 +39,4 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/MarceluzOne)](https://github.com/MarceluzOne)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/MarceluzOne)](https://github.com/MarceluzOne) 
 
-![Tulio Faria's github stats](https://github-readme-stats.vercel.app/api?username=tuliofaria&show_icons=true&theme=dark)
+![Marcelo Arruda](https://github-readme-stats.vercel.app/api?username=MarceluzOne&show_icons=true&theme=dark)
