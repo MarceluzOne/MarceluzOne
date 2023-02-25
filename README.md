@@ -4,7 +4,7 @@
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <br />
 
-🧑‍💻 - Estudante de Desenvolvimento Front-End
+🧑‍💻 - Estudante de Sistemas de Informação
 <br />
 
 😯 - Curioso pelas mudanças da Tecnologia no mundo
